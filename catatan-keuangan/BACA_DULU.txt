@@ -1,0 +1,25 @@
+SAKUIN — TASK 1–3 WEEK 3 DAN WEEK 4
+
+1. Ekstrak ZIP ini dan buka folder berisi package.json di VS Code.
+2. Terminal: npm ci
+3. Terminal pertama: npm run api
+4. Terminal kedua: npm run web
+   Untuk HP melalui Expo Go: npm start
+5. Daftar akun, lalu login menggunakan email dan password yang sama.
+
+Server API dan aplikasi harus berjalan bersamaan.
+HP dan laptop harus berada di Wi-Fi yang sama.
+Jika API belum terhubung, ikuti pengaturan .env di README.md.
+Gunakan Node.js 22.13 atau lebih baru dan Expo Go yang sesuai SDK 57.
+
+README.md                    : cara menjalankan dan isi program
+docs/TASK_WEEK3_WEEK4.md      : penerapan seluruh task
+docs/MODEL_DATA.md           : resource, field, tipe, JSON dan mapping
+docs/PANDUAN_DEMO.md         : langkah demonstrasi
+docs/HASIL_PENGUJIAN.md      : hasil uji dan checklist perangkat
+
+Uji program:
+npm run typecheck
+npm test
+
+API berisi transaksi fiktif untuk demonstrasi; catatan pribadi tersimpan di perangkat.
