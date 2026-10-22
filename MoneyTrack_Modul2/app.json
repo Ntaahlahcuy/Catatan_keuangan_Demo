@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Money Track",
+    "slug": "money-track-mahasiswa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "moneytrack",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
